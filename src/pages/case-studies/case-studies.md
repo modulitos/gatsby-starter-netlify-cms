@@ -1,5 +1,5 @@
 ---
-templateKey: 'case study page'
+templateKey: 'case-studies-page'
 path: /case-study
 title: mapseed case studies
 ---
