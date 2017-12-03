@@ -35,7 +35,7 @@ collections:
         name: "case studies"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "case-studies-page"}
-          - {label: "Path", name: "path", widget: "hidden", default: "/case-study"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/case-studies"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/product/product.md"

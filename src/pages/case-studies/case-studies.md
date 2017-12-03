@@ -1,6 +1,6 @@
 ---
 templateKey: 'case-studies-page'
-path: /case-study
+path: /case-studies
 title: mapseed case studies
 ---
 ### Case Study 1
